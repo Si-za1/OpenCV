@@ -41,6 +41,10 @@ name_text_position = (1000, 500)  # Adjusted position for the right corner
 # Corrected usage of cv2.putText
 cv2.putText(ImageOverlay, name, name_text_position, font, name_font_scale, name_font_color, thickness=1)
 
+# Saving the output filename
+output_filename = "blended_template.png"
+cv2.imwrite(output_filename, ImageOverlay)
+
 while True:
 # Overlay the image on the background
     # Display the result
