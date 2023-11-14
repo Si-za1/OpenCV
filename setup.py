@@ -16,5 +16,6 @@ setup(
         "opencv-python==4.8.1.78",
         "loguru==0.7.2",
         "Pillow==9.5.0",
-        "pydantic==2.4.2"],
+        "pydantic==2.4.2"
+    ],
 )

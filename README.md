@@ -9,7 +9,7 @@ This is a repository to consolidate all the ML utilities in one place.
 Install the repository via python to your python environment
 
 ```bash
-pip install imagi-matrix
+pip install git+https://github.com/amunamun07/ImagiMatrix.git@master
 ```
 
 ## Included in this repository
@@ -17,7 +17,8 @@ pip install imagi-matrix
 <ul>
 <li>[x] Birthday Post Creator </li>
 </ul>
-
+![Post1.jpg](output%2FPost1.jpg)
+![Post2.jpg](output%2FPost2.jpg)
 
 ## Birthday Post Creator
 
