@@ -1,5 +1,5 @@
 # ImagiMatrix
-This is a repository to consolidate all the ML utilities in one place.
+This is a repository to consolidate all the Image related utilities in one place.
 
 💫 **Version 0.0.1**
 
