@@ -17,8 +17,6 @@ pip install git+https://github.com/amunamun07/ImagiMatrix.git@master
 <ul>
 <li>[x] Birthday Post Creator </li>
 </ul>
-![Post1.jpg](output%2FPost1.jpg)
-![Post2.jpg](output%2FPost2.jpg)
 
 ## Birthday Post Creator
 
